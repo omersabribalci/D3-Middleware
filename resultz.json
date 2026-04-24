@@ -1,0 +1,224 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 20,
+  "numPassedTests": 20,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1776282362384,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " store/actions/index.js dosyası oluşturulmuş",
+          "status": "passed",
+          "title": "store/actions/index.js dosyası oluşturulmuş",
+          "duration": 17,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " store/reducers/index.js dosyası oluşturulmuş",
+          "status": "passed",
+          "title": "store/reducers/index.js dosyası oluşturulmuş",
+          "duration": 3,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " store/store.js dosyası oluşturulmuş",
+          "status": "passed",
+          "title": "store/store.js dosyası oluşturulmuş",
+          "duration": 3,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " App.jsxde sira, useSelector hooku ile storedan alınıyor",
+          "status": "passed",
+          "title": "App.jsxde sira, useSelector hooku ile storedan alınıyor",
+          "duration": 3,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " App.jsxde favMovies, useSelector hooku ile storedan alınıyor",
+          "status": "passed",
+          "title": "App.jsxde favMovies, useSelector hooku ile storedan alınıyor",
+          "duration": 5,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Movie.jsxde movies useSelector hooku ile storedan alınıyor",
+          "status": "passed",
+          "title": "Movie.jsxde movies useSelector hooku ile storedan alınıyor",
+          "duration": 2,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " App.jsxde useDispatch hooku kullanılmış",
+          "status": "passed",
+          "title": "App.jsxde useDispatch hooku kullanılmış",
+          "duration": 2,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " FavMovie.jsxde useDispatch hooku kullanılmış",
+          "status": "passed",
+          "title": "FavMovie.jsxde useDispatch hooku kullanılmış",
+          "duration": 3,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " store.js dosyasında redux-logger kullanılmış",
+          "status": "passed",
+          "title": "store.js dosyasında redux-logger kullanılmış",
+          "duration": 2,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Sıradaki butonu bir sonraki filmi gösteriyor",
+          "status": "passed",
+          "title": "Sıradaki butonu bir sonraki filmi gösteriyor",
+          "duration": 82,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Önceki butonu eklenmiş",
+          "status": "passed",
+          "title": "Önceki butonu eklenmiş",
+          "duration": 29,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Önceki butonu bir önceki filmi açıyor",
+          "status": "passed",
+          "title": "Önceki butonu bir önceki filmi açıyor",
+          "duration": 131,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " İlk film gösterilirken Önceki butonu gözükmüyor",
+          "status": "passed",
+          "title": "İlk film gösterilirken Önceki butonu gözükmüyor",
+          "duration": 6,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " son film gösterilirken Sıradaki butonu gözükmüyor",
+          "status": "passed",
+          "title": "son film gösterilirken Sıradaki butonu gözükmüyor",
+          "duration": 1776,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Listeme ekle eklenen filmi filmlerim listesinden kaldırıyor",
+          "status": "passed",
+          "title": "Listeme ekle eklenen filmi filmlerim listesinden kaldırıyor",
+          "duration": 137,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Listeme ekle eklenen filmi listeme ekliyor",
+          "status": "passed",
+          "title": "Listeme ekle eklenen filmi listeme ekliyor",
+          "duration": 119,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Listem sayfasında çıkar butonu filmi favori listesinden çıkarıyor",
+          "status": "passed",
+          "title": "Listem sayfasında çıkar butonu filmi favori listesinden çıkarıyor",
+          "duration": 227,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " App.jsxde movies, film kalmadığında ekranda Gösterilecek film kalmadı mesajını render edebilmek için useSelector hooku ile storedan alınıyor",
+          "status": "passed",
+          "title": "App.jsxde movies, film kalmadığında ekranda Gösterilecek film kalmadı mesajını render edebilmek için useSelector hooku ile storedan alınıyor",
+          "duration": 3,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Tüm filmler Favori listesine eklenince Eklenecek film bulunamadı mesajı ekranda görünüyor",
+          "status": "passed",
+          "title": "Tüm filmler Favori listesine eklenince Eklenecek film bulunamadı mesajı ekranda görünüyor",
+          "duration": 2087,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Favori listesinden çıkan film, film listesine tekrar ekleniyor",
+          "status": "passed",
+          "title": "Favori listesinden çıkan film, film listesine tekrar ekleniyor",
+          "duration": 2065,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1776283592144,
+      "endTime": 1776283598846,
+      "status": "passed",
+      "message": "",
+      "name": "/home/projects/vitejs-vite-rbxv2i/src/__tests__/index.test.jsx"
+    }
+  ]
+}
